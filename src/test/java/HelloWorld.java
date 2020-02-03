@@ -3,6 +3,5 @@ public class HelloWorld {
 
         System.out.println("Test");
         System.out.println("Automation");
-        System.out.println("WebApplication");
 }
 }
