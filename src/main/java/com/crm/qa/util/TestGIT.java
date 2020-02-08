@@ -7,6 +7,7 @@ public class TestGIT {
         System.out.println("commit file from idea");
         System.out.println("commit file from idea");
         System.out.println("commit from Web to validate rebase");
+         System.out.println("others commit");
 
     }
 }
