@@ -9,7 +9,7 @@ public class TestGIT {
         System.out.println("commit from Web to validate rebase");
         System.out.println("commit from Web to validate my script");
         System.out.println("new changes");
-test
+
 
 
     }
